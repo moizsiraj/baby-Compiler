@@ -1,0 +1,11 @@
+hi
+      begin
+pcvecev
+print hello world
+//mera comment
+hello world
+print hi world
+/*mera
+comment*/
+print a
+      end
